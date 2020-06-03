@@ -12,3 +12,6 @@
 * Genomic location (GRCh38) //*[@id="genomic-context-tbl-location"]//tbody/tr[1]/td[5]
 * Chr (GRCh37) //*[@id="genomic-context-tbl-location"]//tbody/tr[2]/td[4]
 * Genomic location (GRCh37) //*[@id="genomic-context-tbl-location"]//tbody/tr[2]/td[5]
+
+## Resources 
+1. Retrieve tumor suppressor gene table from <a href="https://www.cancerquest.org/cancer-biology/cancer-genes" target="_blank"> CancerQuest</a>
