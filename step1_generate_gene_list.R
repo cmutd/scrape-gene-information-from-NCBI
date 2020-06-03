@@ -7,7 +7,7 @@ library(clusterProfiler) # statistical analysis and visualization of functional 
 options(stringsAsFactors = F)
 
 
-# tumor suppressor genes are the second table
+# The second table contains tumor suppressor genes 
 Suppressor_table<- html_table(read_html("https://www.cancerquest.org/cancer-biology/cancer-genes"),header=T)[[2]]
 
 genes <- Suppressor_table$`Tumor Suppressor`[c(1,3,4,7:10,12,14:16)]
