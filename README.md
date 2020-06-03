@@ -1,7 +1,7 @@
 # scrape-gene-information-from-NCBI
 
 ## xpath
-* Official Symbol //*[@id="summaryDl"]/dd[1]/text()
+* <b>Official Symbol</b> //*[@id="summaryDl"]/dd[1]/text()
 * Official Full name//*[@id="summaryDl"]/dd[2]/text()
 * Gene type //*[@id="summaryDl"]/dd[5]
 * Summary //*[@id="summaryDl"]/dd[10]
