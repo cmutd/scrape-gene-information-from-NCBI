@@ -1,0 +1,11 @@
+SYMBOL	ENTREZID	url
+APC	324	https://www.ncbi.nlm.nih.gov/gene/324
+CDKN2A	1029	https://www.ncbi.nlm.nih.gov/gene/1029
+DCC	1630	https://www.ncbi.nlm.nih.gov/gene/1630
+MEN1	4221	https://www.ncbi.nlm.nih.gov/gene/4221
+NF1	4763	https://www.ncbi.nlm.nih.gov/gene/4763
+NF2	4771	https://www.ncbi.nlm.nih.gov/gene/4771
+PTEN	5728	https://www.ncbi.nlm.nih.gov/gene/5728
+VHL	7428	https://www.ncbi.nlm.nih.gov/gene/7428
+WRN	7486	https://www.ncbi.nlm.nih.gov/gene/7486
+WT1	7490	https://www.ncbi.nlm.nih.gov/gene/7490
