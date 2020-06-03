@@ -15,4 +15,4 @@
 
 ## Resources 
 1. Retrieve tumor suppressor gene table from <a href="https://www.cancerquest.org/cancer-biology/cancer-genes" target="_blank"> CancerQuest</a>
-2. Annotate gene from <a href="https://www.ncbi.nlm.nih.gov/" target="_blank"> NCBI</a>
+2. Annotate genes from <a href="https://www.ncbi.nlm.nih.gov/" target="_blank"> NCBI</a>
