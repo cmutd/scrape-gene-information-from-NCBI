@@ -17,3 +17,5 @@
 1. Retrieve tumor suppressor gene table from <a href="https://www.cancerquest.org/cancer-biology/cancer-genes" target="_blank"> CancerQuest</a>
 2. Annotate genes from <a href="https://www.ncbi.nlm.nih.gov/" target="_blank"> NCBI</a>
 3. https://www.jianshu.com/p/4236a40adeb9
+4. When you have a few genes to annotate, you can use script version 1.
+5. When you have a long list of genes, use script version 2.(TO DO). 
