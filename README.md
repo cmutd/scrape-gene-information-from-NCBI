@@ -13,9 +13,10 @@
 * <b>Chr (GRCh37)</b> //*[@id="genomic-context-tbl-location"]//tbody/tr[2]/td[4]
 * <b>Genomic location (GRCh37)</b> //*[@id="genomic-context-tbl-location"]//tbody/tr[2]/td[5]
 
-## Resources 
-1. Retrieve tumor suppressor gene table from <a href="https://www.cancerquest.org/cancer-biology/cancer-genes" target="_blank"> CancerQuest</a>
-2. Annotate genes from <a href="https://www.ncbi.nlm.nih.gov/" target="_blank"> NCBI</a>
-3. https://www.jianshu.com/p/4236a40adeb9
-4. When you have a few genes to annotate, you can use script version 1.
-5. When you have a long list of genes, use script version 2.(TO DO). 
+## Workflow 
+1. The gene list is generate by "step1_generate_gene_list.R". 
+   Retrieve tumor suppressor gene table from <a href="https://www.cancerquest.org/cancer-biology/cancer-genes" target="_blank"> CancerQuest</a>
+2. The database that used for gene annotation is <a href="https://www.ncbi.nlm.nih.gov/" target="_blank"> NCBI</a>
+3. When you have a few genes to annotate, you can use script version 1.
+4. When you have a long list of genes, use script version 2.(TO DO). 
+5. Reference https://www.jianshu.com/p/4236a40adeb9
