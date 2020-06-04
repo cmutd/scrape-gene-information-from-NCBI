@@ -67,4 +67,4 @@ for(i in 1:nrow(genes)){
   print(paste("Completed",i,"genes！"))
   
 }
-write.table(genes,"gene_information.txt",row.names = F,quote=F,sep='\t')
+write.csv(genes,"gene_information.csv",row.names = F)
